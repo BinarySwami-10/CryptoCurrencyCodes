@@ -3,5 +3,5 @@
 
 Twitter API Code and Json
 
-real life problem,and solution to problem in python.
+real life problem,and solution to problem in python
 
