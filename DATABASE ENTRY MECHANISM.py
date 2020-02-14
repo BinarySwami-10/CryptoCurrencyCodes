@@ -2,6 +2,8 @@ link='''<a href="https://www.amazon.in/HARPA-Synthetic-a-line-Dress-GR5759_Black
 category='womens clothes'
 
 def itemName(link):
+	# I:URL O: item Name
+	#NICELY GETS THE NAME Which happens to be the FIRST SUBFOLDER OF AMAZON
 	name="" ; count=0
 	for i in link:
 		if i == '/':
@@ -11,10 +13,14 @@ def itemName(link):
 		else :
 			pass
 	return name
+
 def pack(word):
+	#I: unit data O: sql compatible string
+	#puts ESCAPE CHARACTERS PROPERLY FR SQL
 	word=word.replace('"',"\\\'")
 	return "\'" + word + "\',"
 def packlast(link):
+	#puts ESCAPE CHARACTERS PROPERLY FOR LAST ATTRIBUTE SQL
 	link=link.replace('"',"\\\'")
 	return "\'" + link + "\'"
 
