@@ -1,7 +1,7 @@
 # Nikhil's CryptoTrading and CryptoMining Repo
 
 
-# PROGRAM :: HITBTC.py : 
+# PROGRAM :: CryptoStockPriceGet.py : 
 	Display the Current running price of Bitcoin in Dollar $. you can change the surce
 	by changing the url of stock market website in code. you need to identify the price tag
 	via html inspect in browser. it uses beautiful soup 4 and requests library.
