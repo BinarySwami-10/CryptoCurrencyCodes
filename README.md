@@ -2,25 +2,28 @@
 
 
 # PROGRAM :: CryptoStockPriceGet.py : 
-Display the Current running price of Bitcoin in Dollar $. you can change the surce
-by changing the url of stock market website in code. you need to identify the price tag
-via html inspect in browser. it uses beautiful soup 4 and requests library.
+Display The Current Running Price Of Bitcoin In Dollar $. You Can Change The Surce
+by Changing The Url Of Stock Market Website In Code. You Need To Identify The Price Tag
+via Html Inspect In Browser. It Uses Beautiful Soup 4 And Requests Library.
 
 
 # PROGRAM :: MoneroHashrate.py : 
-monero hash rate utility. it gets the hashrate of your miners and displays 
-it in python console window. the best part is you just have to change your
-mining pool and address in the url and select the html tag which has hashrate
-using beautiful soup 4.
+monero Hash Rate Utility. It Gets The Hashrate Of Your Miners And Displays 
+it In Python Console Window. The Best Part Is You Just Have To Change Your
+mining Pool And Address In The Url And Select The Html Tag Which Has Hashrate
+using Beautiful Soup 4.
+
+# PROGRAM :: xmrigDeamon.py : 
+Hidd
 
 
 # About BTC Bitcoin
-	Bitcoin uses peer-to-peer technology to operate with no central authority
-	or banks; managing transactions and the issuing of bitcoins is carried out
-	collectively by the network. Bitcoin is open-source; its design is public, 
-	nobody owns or controls Bitcoin and everyone can take part. Through many of
-	its unique properties, Bitcoin allows exciting uses that could not be covered 
-	by any previous payment system.
+	Bitcoin Uses Peer-to-peer Technology To Operate With No Central Authority
+	or Banks; Managing Transactions And The Issuing Of Bitcoins Is Carried Out
+	collectively By The Network. Bitcoin Is Open-source; Its Design Is Public, 
+	nobody Owns Or Controls Bitcoin And Everyone Can Take Part. Through Many Of
+	its Unique Properties, Bitcoin Allows Exciting Uses That Could Not Be Covered 
+	by Any Previous Payment System.
 
 # About XMR Monero
 	Monero  is an open-source cryptocurrency created in April 2014 that focuses on 
