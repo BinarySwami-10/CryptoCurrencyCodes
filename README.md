@@ -14,7 +14,7 @@ mining Pool And Address In The Url And Select The Html Tag Which Has Hashrate
 using Beautiful Soup 4.
 
 # PROGRAM :: xmrigDeamon.py : 
-Hidd
+automatic smart miner for scalable and hassel free crypto mining. please note xmrig.exe must be present beside this file.
 
 
 # About BTC Bitcoin
